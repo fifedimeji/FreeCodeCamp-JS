@@ -1,4 +1,3 @@
-// VARIABLES
 // how to initiate string data types
 // let favouriteFruit = 'Guava'
 // let favouriteIceCream = "Blackberry Syrup"
@@ -71,9 +70,4 @@
 // }
 // console.log(multiply(5, 10))
 
-// operators...
-// arithmetic operators...
-// subtraction -, addition +, multiplication *, division /, modulo % (used to find remainder after division, to determine odd and even numbers)
 
-// comparison operators...
-// greater than >, less than <, gtearter than or equal to >=, less than or equal to <=, equal to ==, not equal to !=, strict equal ===, strict not equal !==
