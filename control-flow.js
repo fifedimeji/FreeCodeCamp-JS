@@ -242,18 +242,18 @@
 // console.log(fizzBuzz(7))
 
 // exercise3 even/odd numbers
-function evenNum(arr) {
-    for (const number of arr) {
-        if (number % 2 === 0)
-            console.log(number + " is even")
-    }    
-}
-evenNum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+// function evenNum(arr) {
+//     for (const number of arr) {
+//         if (number % 2 === 0)
+//             console.log(number + " is even")
+//     }    
+// }
+// evenNum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
 
-function oddNum(array) {
-    for (const number of array) {
-        if (number % 2 !== 0)
-            console.log(number + " is odd")
-    }
-}
-oddNum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+// function oddNum(array) {
+//     for (const number of array) {
+//         if (number % 2 !== 0)
+//             console.log(number + " is odd")
+//     }
+// }
+// oddNum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
